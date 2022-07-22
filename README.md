@@ -60,7 +60,7 @@ Utility:
 <div align="center">
   <p>This screenshot is compressed in size, go to the demo link to see the page properly. <a href="https://hardtek.com.br/portfolio/">View Demo</a></p>
   <a href="#">
- <img src="https://hardtek.com.br/portfolio/img/screenshot.png" alt="Logo" width="868" height="410"></a>
+ <img src="https://hardtek.com.br/portfolio/img/screenshot.png" alt="Logo" ></a>
 </div>
 
 
