@@ -16,7 +16,7 @@
     <a href="https://github.com/fmachadoweb/portfoliowebmodel"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://hardtek.com.br/portfolio/">View Demo</a>
+    <a href="https://hardtek.com.br/portfolio3/">View Demo</a>
     ·
     <a href="mailto:fernandomachadoweb">Report Bug</a>
 
